@@ -131,9 +131,8 @@ color: var(--accent-color);
 .team-list .text{
     text-align: center;
 }
+
 /* footer*/
-.footer{
-}
 .footer-text{
     color: var(--white-text-color);
 }
@@ -162,14 +161,14 @@ color: var(--accent-color);
     color: var(--white-color);
 }
 
-.Portfolio-list .title{
+.Projects-list .title{
     color: var(--title-text-color);
 
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
 }
-.Portfolio-list .text{
+.Projects-list .text{
     color: var(--primary-text-color);
 
     font-weight: 400;
