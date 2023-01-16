@@ -42,7 +42,8 @@ ul {
     line-height: 1.33;
     text-decoration:none;
 }
-.logo:hover{ color: var(--accent-color);}
+
+.accent-logo { color: var(--accent-color);}
 
 /* site-nav*/
 .site-nav .link {
@@ -133,8 +134,14 @@ color: var(--accent-color);
 }
 
 /* footer*/
+.footer{
+    background-color: var(--title-text-color);
+}
 .footer-text{
     color: var(--white-text-color);
+}
+.footer-logo{
+    color: var(--button-bg-color);
 }
 
  /**
