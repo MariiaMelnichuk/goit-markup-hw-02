@@ -43,7 +43,8 @@ ul {
     text-decoration:none;
 }
 
-.accent-logo { color: var(--accent-color);}
+.accent-logo { color: var(--accent-color);
+font-family: Raleway;}
 
 /* site-nav*/
 .site-nav .link {
@@ -142,6 +143,7 @@ color: var(--accent-color);
 }
 .footer-logo{
     color: var(--button-bg-color);
+    font-family: Raleway;
 }
 
  /**
